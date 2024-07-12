@@ -1,2 +1,2 @@
-# genetic-algorithm-notebooks
-Repository containing all the colab notebooks on genetic alogorithm 
+# metaheuristics-algorithm-notebooks
+Repository containing all the colab notebooks on metaheuristics alogorithm 
